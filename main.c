@@ -1,3 +1,4 @@
+/* This main is used for testing */
 #include <stdio.h>
 #include <stdlib.h>
 
