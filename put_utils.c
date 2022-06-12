@@ -1,10 +1,6 @@
 #include <limits.h>
 #include <unistd.h>
 
-void	ft_putnbr(int nb);
-void	tf_putunbr(unsigned int nb);
-void	ft_putchar(char c);
-void	ft_putstr(char *str);
 
 void	ft_putchar(char c)
 {

@@ -1,18 +1,11 @@
 /* This main is used for testing */
 #include <stdio.h>
 #include <stdlib.h>
+#include "int_utils.h" 
+#include "math_utils.h" 
+#include "put_utils.h" 
+#include "str_utils.h" 
 
-int		ft_is_prime(int nb);
-int		ft_iterative_factorial(int nb);
-int 	ft_recursive_factorial(int nb);
-int		ft_fibonacci(int index);
-int		ft_sqrt(int nb);
-void	ft_rev_int_tab(int *tab, int size);
-void	ft_swap(int *a, int *b);
-void	ft_sort_int_tab(int *tab, int size);
-void	quick_sort(int *tab, int low, int high);
-void 	ft_putnbr(int nb);
-void 	populate_int_tab(int *tab, int size);
 
 int main(void)
 {
